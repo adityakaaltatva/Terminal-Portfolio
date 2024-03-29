@@ -1,0 +1,22 @@
+{
+  "name": "terminal-portfolio",
+  "version": "1.0.0",
+  "description": "Terminal Based Portfolio of aditya",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakaaltatva/Terminal-Portfolio.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "adityaKaaltatva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityakaaltatva/Terminal-Portfolio/issues"
+  },
+  "homepage": "https://github.com/adityakaaltatva/Terminal-Portfolio#readme"
+}
